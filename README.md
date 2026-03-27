@@ -1,2 +1,2 @@
 # motortamir
-claude, juice ui, Tactile UIReact Native Skia, 
+claude, juicy ui, Tactile UIReact Native Skia, 
